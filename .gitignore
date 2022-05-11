@@ -1,0 +1,10 @@
+target/
+.bloop
+.metals
+.vscode
+project/
+*.DS_Store  
+*.log
+.cache
+.history
+.logs/
